@@ -14,7 +14,7 @@ This project demonstrates how to use Karate for automating QA API tests.
 
 ## Introduction
 
-Karate is an open-source tool designed specifically for testing web services. It allows you to write tests in a simple and expressive syntax using Cucumber and Gherkin. This project provides a basic setup for using Karate to automate QA API tests.([Official Website]([https://www.library-b.com](https://www.karatelabs.io/api-testing)))
+Karate is an open-source tool designed specifically for testing web services. It allows you to write tests in a simple and expressive syntax using Cucumber and Gherkin. This project provides a basic setup for using Karate to automate QA API tests.([Official Website](https://www.karatelabs.io/api-testing))
 
 ## Prerequisites
 
